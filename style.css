@@ -347,14 +347,13 @@ footer{
 /* end footer */
 /* tablet responsive */
 @media (max-width: 768px){
-    header{
-        height: 135vh;
-    }
+    
     header .navbar nav{
         display: block;
         text-align: center;
         
     } 
+    
     header .navbar nav ul{
         justify-content: center;
         margin-top: 8px;
@@ -399,6 +398,9 @@ footer{
     #contact .row img{
         max-width: 320px;
         margin: auto;
+    }
+    header{
+        height: 135vh;
     }
 }
 /* mobile responsive */
