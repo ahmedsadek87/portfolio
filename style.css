@@ -431,6 +431,7 @@ footer{
     }
     header .header-content img{
         margin: 0 auto ;
+        max-width:410px;
     }
     header .header-content h1{
         font-size: 40px;
