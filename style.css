@@ -128,7 +128,7 @@ header .header-content button:hover , .btn-primary:hover{
     cursor: pointer;
 }
 header .header-content img{
-    max-width: 300px;
+    max-width: 450px;
 }
 /* start about */
 #about , #skills ,#services ,#portfolio{
@@ -406,7 +406,7 @@ footer{
         
     } 
     header{
-        height: 125vh;
+        height: 135vh;
     }
     header .navbar nav ul{
         justify-content: center;
